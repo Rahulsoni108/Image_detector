@@ -68,3 +68,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "tensorflow"
+gem 'mini_magick' # For image resizing
+gem 'pycall'
+gem 'rack-cors', :require => 'rack/cors'
