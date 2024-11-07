@@ -73,3 +73,5 @@ gem "tensorflow"
 gem 'mini_magick' # For image resizing
 gem 'pycall'
 gem 'rack-cors', :require => 'rack/cors'
+gem 'httparty'
+gem 'dotenv-rails'
